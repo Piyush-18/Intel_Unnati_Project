@@ -1,1 +1,2 @@
 the dataset can be downloaded from https://www.kaggle.com/datasets/zalando-research/fashionmnist
+google drive link to data folder https://drive.google.com/drive/folders/1rRlL4o3Yf41San3pvUB-l8AbqFSjrsXL?usp=drive_link
